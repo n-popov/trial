@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <cmath>
 
 int main() {
     std::vector<std::vector<int>> M(2);
